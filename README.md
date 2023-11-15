@@ -1,2 +1,2 @@
 # Robot-Dynamics
-robot dynamics 
+some notes about robot dynamics 
